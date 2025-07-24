@@ -18,8 +18,6 @@ public class PrincipalComListas {
         filmeDoPaulo.avalia(10);
         Serie lost = new Serie("Lost", 2000);
 
-        Filme f1 = filmeDoPaulo;
-
         ArrayList<Titulo> lista = new ArrayList<>();
         lista.add(filmeDoPaulo);
         lista.add(meuFilme);
@@ -34,7 +32,7 @@ public class PrincipalComListas {
 
         ArrayList<String> buscaPorArtista = new ArrayList<>();
         buscaPorArtista.add("Adam Sandler");
-        buscaPorArtista.add("Paul");
+        buscaPorArtista.add("Paulo");
         buscaPorArtista.add("Jacqueline");
         System.out.println(buscaPorArtista);
 
