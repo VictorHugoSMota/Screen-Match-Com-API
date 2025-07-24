@@ -32,6 +32,11 @@ public class PrincipalComListas {
             }
         }
 
+
+
+
+
+
         ArrayList<String> buscaPorArtista = new ArrayList<>();
         buscaPorArtista.add("Adam Sandler");
         buscaPorArtista.add("Paulo");
